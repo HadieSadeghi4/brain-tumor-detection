@@ -41,6 +41,9 @@ Clone the repo:
 ```bash
 git clone https://github.com/HadieSadeghi4/brain-tumor-detection-dl.git
 cd brain-tumor-detection-dl
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
 
 ## 📈 Conclusion
 ResNet18 outperformed both YOLOv8n and the custom CNN model, making it a reliable choice for medical imaging applications requiring high accuracy.
