@@ -36,15 +36,6 @@ This repository contains the implementation and comparative analysis of three de
 - Confusion Matrix
 - Class-wise Precision/Recall
 
-## 🧪 How to Run
-Clone the repo:
-```bash
-git clone https://github.com/HadieSadeghi4/brain-tumor-detection-dl.git
-cd brain-tumor-detection-dl
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-
 ## 📈 Conclusion
 ResNet18 outperformed both YOLOv8n and the custom CNN model, making it a reliable choice for medical imaging applications requiring high accuracy.
 
@@ -63,4 +54,14 @@ Technical and Vocational University, Iran
 
 ## 🏷 Keywords
 Brain Tumor Detection, Deep Learning, YOLOv8, CNN, ResNet18, MRI, Medical Imaging, Python, PyTorch
+
+
+## 🧪 How to Run
+Clone the repo:
+```bash
+git clone https://github.com/HadieSadeghi4/brain-tumor-detection-dl.git
+cd brain-tumor-detection-dl
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
 
