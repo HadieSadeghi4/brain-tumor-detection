@@ -37,12 +37,10 @@ This repository contains the implementation and comparative analysis of three de
 - Class-wise Precision/Recall
 
 ## 🧪 How to Run
-
-1. Clone the repo:
+Clone the repo:
 ```bash
 git clone https://github.com/HadieSadeghi4/brain-tumor-detection-dl.git
 cd brain-tumor-detection-dl
-
 
 ## 📈 Conclusion
 ResNet18 outperformed both YOLOv8n and the custom CNN model, making it a reliable choice for medical imaging applications requiring high accuracy.
